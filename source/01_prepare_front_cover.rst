@@ -36,6 +36,16 @@ Additionally, you may use just an excerpt of an image to go on the cover. In the
 Creating the Printing Layout
 ============================
 
+.. image:: images/multipageLayout_MeltingSnow_IMAGESIDE.png
+         :width: 50%
+         :align: left
+         :alt: layout of multiple images on one sheet
+
+.. image:: images/multipageLayout_MeltingSnow_INFOSIDE.png
+         :width: 50%
+         :align: left
+         :alt: layout of multiple information pages on one sheet
+         
 #. Start Photoshop.
 #. If a front cover **outside** template exists for the chosen size and style of notebook, open it.
 #. If you are not using a template:
@@ -54,16 +64,6 @@ Creating the Printing Layout
 #. Update the information for these notebooks.
 #. Save this file.
 
-.. image:: images/multipageLayout_MeltingSnow_IMAGESIDE.png
-         :width: 50%
-         :align: left
-         :alt: layout of multiple images on one sheet
-
-.. image:: images/multipageLayout_MeltingSnow_INFOSIDE.png
-         :width: 50%
-         :align: left
-         :alt: layout of multiple information pages on one sheet
-         
 Printing the Layout
 ===================
 
