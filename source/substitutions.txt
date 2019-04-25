@@ -1,0 +1,40 @@
+
+
+.. |Contents| replace:: Steps to Create Notebooks
+.. |lla| replace:: Lois Legacy Art
+.. |llc| replace:: Lois Legacy Art LLC
+.. |thin| replace:: *slim*
+.. |chunky| replace:: *thick*
+.. |Thin| replace:: *Slim*
+.. |Chunky| replace:: *Thick*
+.. |thinPgs| replace:: **60**
+.. |chunkyPgs| replace:: **180**
+.. |szNm1| replace:: Micro
+.. |szNm2| replace:: Tiny
+.. |szNm3| replace:: Small
+.. |szNm4| replace:: Medium
+.. |szNm5| replace:: Half-Page
+.. |szNm6| replace:: Full-Page
+.. |szTrimShort1| replace:: 1-3/8”
+.. |szTrimShort2| replace:: 2-1/8”
+.. |szTrimShort3| replace:: 2-3/4”
+.. |szTrimShort4| replace:: 4-1/4”
+.. |szTrimShort5| replace:: 5-1/2”
+.. |szTrimShort6| replace:: 8-1/2”
+.. |szTrimLong1| replace:: 2-1/8”
+.. |szTrimLong2| replace:: 2-3/4”
+.. |szTrimLong3| replace:: 4-1/4”
+.. |szTrimLong4| replace:: 5-1/2”
+.. |szTrimLong5| replace:: 8-1/2”
+.. |szTrimLong6| replace:: 11”
+.. |warningSharpLaminatedFrontCover| replace:: The corners of the laminated front cover will be sharp and could prick your fingers. Later you will soften the corners by trimming them slightly. Until then, be careful when handling the laminated front cover.
+
+.. |warningSharpRegularPaperCutter| replace:: Keep the regular paper cutter away from small children. Be careful when handling so that you don't accidentally cut yourself, since the blade is sharp.
+
+.. |emailInfoLLC| raw:: html
+
+  <a href="mailto:info@loislegacyart.com" target="_blank">info@loislegacyart.com</a>
+
+.. |etsyNotebooks| raw:: html
+
+  <a href="https://www.etsy.com/shop/LoisLegacyArt?section_id=24133422" target="_blank">Etsy Shop: Notebooks</a>
