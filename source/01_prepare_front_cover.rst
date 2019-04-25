@@ -54,6 +54,15 @@ Creating the Printing Layout
 #. Update the information for these notebooks.
 #. Save this file.
 
+.. image:: images/multipageLayout_MeltingSnow_IMAGESIDE.png
+         :width: 50%
+         :align: left
+         :alt: layout of multiple images on one sheet
+
+.. image:: images/multipageLayout_MeltingSnow_INFOSIDE.png
+         :align: right
+         :alt: layout of multiple information pages on one sheet
+         
 Printing the Layout
 ===================
 
