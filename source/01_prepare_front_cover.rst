@@ -36,12 +36,17 @@ Additionally, you may use just an excerpt of an image to go on the cover. In the
 Creating the Printing Layout
 ============================
 
-.. image:: images/multipageLayout_MeltingSnow_IMAGESIDE.png
+.. list-table::
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Multiple images for outside of front cover
+     - Multiple text pages for inside of front cover
+   * - .. image:: images/multipageLayout_MeltingSnow_IMAGESIDE.png
          :width: 50%
          :align: left
          :alt: layout of multiple images on one sheet
-
-.. image:: images/multipageLayout_MeltingSnow_INFOSIDE.png
+     - .. image:: images/multipageLayout_MeltingSnow_INFOSIDE.png
          :width: 50%
          :align: left
          :alt: layout of multiple information pages on one sheet
