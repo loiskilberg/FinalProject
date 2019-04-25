@@ -44,11 +44,11 @@ Creating the Printing Layout
      - Multiple text pages for inside of front cover
    * - .. image:: images/multipageLayout_MeltingSnow_IMAGESIDE.png
          :width: 50%
-         :align: left
+         :align: center
          :alt: layout of multiple images on one sheet
      - .. image:: images/multipageLayout_MeltingSnow_INFOSIDE.png
          :width: 50%
-         :align: left
+         :align: center
          :alt: layout of multiple information pages on one sheet
          
 #. Start Photoshop.
