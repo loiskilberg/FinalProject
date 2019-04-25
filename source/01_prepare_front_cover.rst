@@ -60,7 +60,8 @@ Creating the Printing Layout
          :alt: layout of multiple images on one sheet
 
 .. image:: images/multipageLayout_MeltingSnow_INFOSIDE.png
-         :align: right
+         :width: 50%
+         :align: left
          :alt: layout of multiple information pages on one sheet
          
 Printing the Layout
