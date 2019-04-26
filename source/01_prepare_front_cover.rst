@@ -6,6 +6,10 @@ Gathering the Image for the Front Outside Cover
 
 First, you will want to get the image ready that will go on the outside of the front cover. If you are making more than one notebook at a time, you can either use the same image for all the notebooks or you can change the image on one or more of the notebooks in the batch. In these steps, we will use the term "image" to represent one or more of the chosen images.
 
+.. raw:: HTML
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2ufVSfuIBEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Additionally, you may use just an excerpt of an image to go on the cover. In these steps, the term "image" will represent the image or the part of the original image that you will use for the cover.
 
 * Select an image for the notebooks by:
