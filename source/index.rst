@@ -89,7 +89,7 @@ Click on the steps below to learn how to create your own spiral notebooks:
 |Contents|
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    01_prepare_front_cover.rst
    02_prepare_back_cover.rst
