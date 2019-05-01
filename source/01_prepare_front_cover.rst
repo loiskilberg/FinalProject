@@ -8,6 +8,10 @@ First, you will want to get the image ready that will go on the outside of the f
 
 .. raw:: HTML
 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FKLH44w-lbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: HTML
+
   <iframe width="560" height="315" src="https://www.youtube.com/embed/JcxeL5WN9SE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Additionally, you may use just an excerpt of an image to go on the cover. In these steps, the term "image" will represent the image or the part of the original image that you will use for the cover.
