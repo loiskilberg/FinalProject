@@ -89,6 +89,7 @@ Click on the steps below to learn how to create your own spiral notebooks:
 
 .. toctree::
    :maxdepth: 1
+   :titlesonly
 
    01_settingUpPhotoshop.rst
    02_layingOutMultipleCovers.rst
