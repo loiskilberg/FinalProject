@@ -12,13 +12,14 @@ First, you will want to get the image ready that will go on the outside of the f
 
 Additionally, you may use just an excerpt of an image to go on the cover. In these steps, the term "image" will represent the image or the part of the original image that you will use for the cover.
 
+.. index:: dpi, resolution, orientation
+
 * Select an image for the notebooks by:
 
   - Looking through your library of high resolution images, or
   - Using any high resolution image that has been specified for you
   
 * Decide how you will adjust the image to meet the following requirements:
-.. index:: dpi, resolution
 
   - The image resolution should be at least 300 dpi in order to look good when printed.
   - The orientation of the image should match the chosen orientation of the notebooks.
