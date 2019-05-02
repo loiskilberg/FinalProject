@@ -92,12 +92,6 @@ Click on the steps below to learn how to create your own spiral notebooks:
    :maxdepth: 1
 
    01_prepare_front_cover.rst
-   02_prepare_back_cover.rst
-   03_prepare_inner_content.rst
-   04_prepare_wire_spiral.rst
-   05_combine_the_parts.rst
-   06_assemblingAndFinishing_the_notebook.rst
-   07_packaging_the_notebook.rst
    08_next_steps.rst
 
 .. add new files to list above to include them in toc
