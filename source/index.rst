@@ -91,7 +91,9 @@ Click on the steps below to learn how to create your own spiral notebooks:
 .. toctree::
    :maxdepth: 1
 
-   01_prepare_front_cover.rst
-   08_next_steps.rst
+   01_settingUpPhotoshop.rst
+   02_layingOutMultipleCovers.rst
+   03_testPrinting.rst
+   04_nextSteps.rst
 
 .. add new files to list above to include them in toc
