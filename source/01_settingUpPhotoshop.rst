@@ -1,4 +1,4 @@
-Preparing the Notebook's Front Cover
+Setting Up Photoshop to Begin Layout
 ####################################
 
 Gathering the Image for the Front Outside Cover
