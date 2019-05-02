@@ -1,6 +1,5 @@
-Create Your Own Small Spiral Notebooks
-######################################
-
+Laying Out Multiple Front Covers for Spiral Notebooks
+#####################################################
 
 .. image:: images/photo_notebooks.jpg
          :width: 50%
