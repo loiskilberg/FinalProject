@@ -1,5 +1,5 @@
-Next Steps
-##########
+Taking the Next Step
+####################
 Now that your spiral notebooks have been created, you can choose to:
 
 * Use them!
