@@ -38,3 +38,7 @@
 .. |etsyNotebooks| raw:: html
 
   <a href="https://www.etsy.com/shop/LoisLegacyArt?section_id=24133422" target="_blank">Etsy Shop: Notebooks</a>
+
+.. |mainDocNotebooks| raw:: html
+
+  <a href="https://create-spiral-notebook.readthedocs.io/en/latest/" target="_blank">"Creating Spiral Notebooks"</a>
