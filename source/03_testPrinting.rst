@@ -1,5 +1,5 @@
-Test Print to Check Layout and Alignment
-########################################
+Test Printing
+#############
 
 Gathering the Image for the Front Outside Cover
 ===============================================
