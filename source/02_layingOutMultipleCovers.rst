@@ -1,5 +1,5 @@
-Laying Out Multiple Covers on Single Sheet
-##########################################
+Laying Out Multiple Covers on a Single Sheet
+############################################
 
 Gathering the Image for the Front Outside Cover
 ===============================================
