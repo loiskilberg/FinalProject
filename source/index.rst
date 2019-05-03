@@ -16,7 +16,7 @@ The steps in this document are also covered in this video:
 |video|
 
 Requirements
-############
+============
 
 * Computer running Photoshop (we are using Adobe Creative Suite CS4 for Windows 10)
 * Printer that you will use to create the front covers
@@ -25,8 +25,8 @@ Requirements
 * Individual files for the images, already laid out
 * Individual files for the information inside, already laid out
 
-|Contents|
-
+Steps to Create a Multiple Cover Layout
+=======================================
 .. toctree::
    :maxdepth: 2
 
