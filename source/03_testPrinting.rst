@@ -12,8 +12,8 @@ Requirements
 * Strong light source in a darkened room, for checking the test printout
 * Regular paper, at least one sheet but maybe more if adjustments are needed
 
-Steps
-=====
+Steps:
+======
 
 A. Create a printout
 ++++++++++++++++++++
@@ -28,8 +28,8 @@ A. Create a printout
 
 #. Print second side (printer settings should be remembered).
 
-B. Examine at the printout
-++++++++++++++++++++++++++
+B. Examine the printout
++++++++++++++++++++++++
 
 #. Set up the lighting in the room.
 
