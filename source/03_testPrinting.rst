@@ -40,3 +40,8 @@ B. Examine the printout
 Next
 ====
 Now you are finished creating the Photoshop file for multiple front covers!
+
+.. toctree::
+   :maxdepth: 1
+
+   04_nextSteps.rst
