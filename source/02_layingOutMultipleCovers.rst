@@ -34,3 +34,9 @@ Steps:
 Next
 ====
 Now you are ready to do a test print.
+
+.. toctree::
+   :maxdepth: 1
+
+   03_testPrinting.rst
+   04_nextSteps.rst
