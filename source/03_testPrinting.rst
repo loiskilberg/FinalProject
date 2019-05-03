@@ -9,8 +9,8 @@ Requirements
 * Computer running Photoshop (we are using Adobe Creative Suite CS4 for Windows 10)
 * New Photoshop file that you just created
 * Printer that you will use to create the front covers
-* Strong light source in a darkened room, for checking the test printout
 * Regular paper, at least one sheet but maybe more if adjustments are needed
+* Strong light source in a darkened room, for checking the test printout
 
 Steps:
 ======
