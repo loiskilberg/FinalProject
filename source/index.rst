@@ -15,7 +15,11 @@ At |llc|, we create a large variety of small notebooks. We place our fine art re
 
 The steps in this document are also covered in this video:
 
+.. index:: video
+
 |video|
+
+.. index:: specifications for notebook
 
 Spiral Notebook Specifications
 ==============================
