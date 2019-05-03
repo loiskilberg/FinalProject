@@ -9,8 +9,8 @@ You will need:
 
 * Computer running Photoshop (we are using Adobe Creative Suite CS4 for Windows 10)
 
-Steps
-=====
+Steps:
+======
 
 #. File> New.
 #. Gridlines.
