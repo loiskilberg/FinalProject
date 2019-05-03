@@ -1,15 +1,9 @@
 Creating a Photoshop File for Notebook Front Covers
 ###################################################
 
-.. list-table::
-   :widths: 50 50
-   :header-rows: 0
-
-   * - 
 .. image:: images/photo_notebooks.jpg
          :align: center
          :alt: photo of spiral notebooks
-     -
 .. image:: images/photo_notebooks.jpg
          :align: center
          :alt: photo of spiral notebooks
