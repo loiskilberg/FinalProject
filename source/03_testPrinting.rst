@@ -1,7 +1,7 @@
 Test Printing
 #############
 
-In this step, you will produce a test print that you will use in the next step to check for alignment.
+In this step, you will produce a test print to check for alignment. If anything needs adjusting, go back and correct it, then do another test print.
 
 Requirements
 ============
@@ -15,12 +15,17 @@ Requirements
 Steps
 =====
 
-#. Gather at least one piece of regular paper.
-#. File> Print> Understand all the printer settings. Print.
-#. Turn paper over and insert top edge first into printer.
-#. Hide "info" layer group. Show "images" layer group.
-#. Print second side (printer settings should be remembered).
+#. Create a printout:
+  #. Gather at least one piece of regular paper.
+  #. File> Print> Understand all the printer settings. Print.
+  #. Turn paper over and insert top edge first into printer.
+  #. Hide "info" layer group. Show "images" layer group.
+  #. Print second side (printer settings should be remembered).
+#. Look at the printout:
+  #. Set up the lighting in the room.
+  #. Check trim marks.
+  #. Check that info matches the images.
 
 Next
 ====
-Now you are ready to look at the printout to make sure everything is aligned properly.
+Now you are finished creating the Photoshop file for multiple front covers!
