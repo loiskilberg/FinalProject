@@ -37,7 +37,7 @@ Requirements
 Steps to Create a Multiple Cover Layout
 =======================================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    01_settingUpPhotoshop.rst
    02_layingOutMultipleCovers.rst
