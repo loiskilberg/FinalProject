@@ -1,5 +1,5 @@
-Setting Up a Photoshop File with Multiple Front Covers for Spiral Notebooks
-###########################################################################
+Creating a Photoshop File with Front Covers for Spiral Notebooks
+################################################################
 
 .. image:: images/photo_notebooks.jpg
          :width: 50%
