@@ -12,6 +12,8 @@ Requirements
 * Regular paper, at least one sheet but maybe more if adjustments are needed
 * Strong light source in a darkened room, for checking the test printout
 
+.. index:: printer settings
+
 Steps:
 ======
 
@@ -27,6 +29,8 @@ A. Create a printout
 #. Hide "info" layer group. Show "images" layer group.
 
 #. Print second side (printer settings should be remembered).
+
+.. index:: light source, trim marks
 
 B. Examine the printout
 +++++++++++++++++++++++
