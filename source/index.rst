@@ -34,8 +34,8 @@ Requirements
 * Individual files for the images, already laid out
 * Individual files for the information inside, already laid out
 
-Steps to Create a Multiple Cover Layout
-=======================================
+Steps:
+======
 .. toctree::
    :maxdepth: 1
 
