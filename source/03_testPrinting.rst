@@ -15,7 +15,8 @@ Requirements
 Steps
 =====
 
-#. Create a printout:
+A. Create a printout:
++++++++++++++++++++++
 
    #. Gather at least one piece of regular paper.
 
@@ -27,7 +28,8 @@ Steps
 
    #. Print second side (printer settings should be remembered).
 
-#. Look at the printout:
+B. Look at the printout:
+++++++++++++++++++++++++
 
    #. Set up the lighting in the room.
 
