@@ -20,7 +20,7 @@ Notebook Specifications
 
 This document describes the multiple cover layout for #2 |szNm2| notebooks that have a trim size of |szTrimShort2| x |szTrimLong2|. We assume a bleed of 1/4" all around. The orientation is for *vertical* images, and the wire spiral placement is at the *top*.
 
-Notice that the steps to layout the front cover are the same whether the notebook thickness is |Thin| or |Chunky|.
+Please note that the steps to create the front cover layout are the same whether the notebook thickness is |Thin| or |Chunky|.
 
 Requirements
 ============
