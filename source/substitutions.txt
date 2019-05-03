@@ -1,6 +1,5 @@
 
 
-.. |Contents| replace:: Steps to Create Notebooks
 .. |lla| replace:: Lois Legacy Art
 .. |llc| replace:: Lois Legacy Art LLC
 .. |thin| replace:: *slim*
