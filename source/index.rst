@@ -17,8 +17,8 @@ The steps in this document are also covered in this video:
 
 |video|
 
-Notebook Specifications
-=======================
+Spiral Notebook Specifications
+==============================
 
 This document describes the multiple cover layout for #2 |szNm2| notebooks that have a trim size of |szTrimShort2| x |szTrimLong2|. We assume a bleed of 1/4" all around. The orientation is for *vertical* images, and the wire spiral placement is at the *top*.
 
