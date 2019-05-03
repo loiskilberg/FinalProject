@@ -9,7 +9,7 @@ Creating a Photoshop File for Notebook Front Covers
 Introducing Small Spiral Notebooks
 ==================================
 
-At |llc|, we create a large variety of small notebooks. We place our fine art reproductions and map prints on the front covers. These notebooks are very portable to take along with you, which makes it fun and easy to write notes almost anywhere! The wire spiral allows you to have a flat surface to write on without taking up extra space. The heavy matboard backing strongly supports your writing or drawing. The inner pages are made from paper which is easy to draw on and is acid-free.
+At |llc|, we create a large variety of small notebooks. We place our fine art reproductions, illustrations, and map prints on the front covers. These notebooks are very portable to take along with you, which makes it fun and easy to write notes almost anywhere! The wire spiral allows you to have a flat surface to write on without taking up extra space. The heavy matboard backing strongly supports your writing or drawing. The inner pages are made from paper which is easy to draw on and is acid-free.
 
 We are calling them small notebooks in this document because most of the sizes are smaller than a standard 8.5" x 11" paper, although we do offer the standard size as well.
 
