@@ -20,3 +20,10 @@ Steps:
 Next
 ====
 Now you are ready to add individual images to the new file.
+
+.. toctree::
+   :maxdepth: 1
+
+   02_layingOutMultipleCovers.rst
+   03_testPrinting.rst
+   04_nextSteps.rst
