@@ -16,15 +16,15 @@ Steps
 =====
 
 #. Create a printout:
-  #. Gather at least one piece of regular paper.
-  #. File> Print> Understand all the printer settings. Print.
-  #. Turn paper over and insert top edge first into printer.
-  #. Hide "info" layer group. Show "images" layer group.
-  #. Print second side (printer settings should be remembered).
+   #. Gather at least one piece of regular paper.
+   #. File> Print> Understand all the printer settings. Print.
+   #. Turn paper over and insert top edge first into printer.
+   #. Hide "info" layer group. Show "images" layer group.
+   #. Print second side (printer settings should be remembered).
 #. Look at the printout:
-  #. Set up the lighting in the room.
-  #. Check trim marks.
-  #. Check that info matches the images.
+   #. Set up the lighting in the room.
+   #. Check trim marks.
+   #. Check that info matches the images.
 
 Next
 ====
