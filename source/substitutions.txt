@@ -42,3 +42,8 @@
 .. |mainDocNotebooks| raw:: html
 
   <a href="https://create-spiral-notebook.readthedocs.io/en/latest/" target="_blank">"Creating Spiral Notebooks"</a>
+  
+.. |video| raw:: HTML
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FKLH44w-lbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
