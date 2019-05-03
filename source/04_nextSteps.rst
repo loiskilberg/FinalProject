@@ -6,4 +6,4 @@ Now that the front cover layout for your spiral notebooks has been tested, you c
 * Make sure there is plenty of ink in the printer.
 * Print the front covers on special paper.
 
-For more information, refer to the main documentation for creating spiral notebooks at: |mainDocNotebooks|.
+For more information, refer to the main documentation for creating spiral notebooks at: |mainDocNext|.
