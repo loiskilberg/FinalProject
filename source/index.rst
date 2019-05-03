@@ -3,11 +3,9 @@ Creating a Photoshop File for Notebook Front Covers
 
 .. image:: images/photo_notebooks.jpg
          :width: 49%
-         :align: center
          :alt: photo of spiral notebooks
 .. image:: images/photo_notebooks.jpg
          :width: 49%
-         :align: center
          :alt: photo of spiral notebooks
 
 About our Small Spiral Notebooks
