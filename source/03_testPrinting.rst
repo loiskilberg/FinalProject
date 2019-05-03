@@ -15,27 +15,27 @@ Requirements
 Steps
 =====
 
-A. Create a printout:
-+++++++++++++++++++++
+A. Create a printout
+++++++++++++++++++++
 
-   #. Gather at least one piece of regular paper.
+#. Gather at least one piece of regular paper.
 
-   #. File> Print> Understand all the printer settings. Print.
+#. File> Print> Understand all the printer settings. Print.
 
-   #. Turn paper over and insert top edge first into printer.
+#. Turn paper over and insert top edge first into printer.
 
-   #. Hide "info" layer group. Show "images" layer group.
+#. Hide "info" layer group. Show "images" layer group.
 
-   #. Print second side (printer settings should be remembered).
+#. Print second side (printer settings should be remembered).
 
-B. Look at the printout:
-++++++++++++++++++++++++
+B. Examine at the printout
+++++++++++++++++++++++++++
 
-   #. Set up the lighting in the room.
+#. Set up the lighting in the room.
 
-   #. Check trim marks.
+#. Check trim marks.
 
-   #. Check that info matches the images.
+#. Check that info matches the images.
 
 Next
 ====
