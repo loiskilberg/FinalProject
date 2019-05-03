@@ -1,5 +1,5 @@
-Setting Up Photoshop to Begin Layout
-####################################
+Setting Up Photoshop
+####################
 
 Gathering the Image for the Front Outside Cover
 ===============================================
