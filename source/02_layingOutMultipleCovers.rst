@@ -11,8 +11,8 @@ You will need:
 * Individual files for the images, already laid out
 * Individual files for the information inside, already laid out
 
-Steps
-=====
+Steps:
+======
 
 #. Adding Images for the Outside
   #. Place first image
