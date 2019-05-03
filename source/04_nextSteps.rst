@@ -1,8 +1,7 @@
 Taking the Next Step
 ####################
-Now that your spiral notebooks have been created, you can choose to:
+Now that the front cover layout for your spiral notebooks has been tested, you can:
 
-* Use them!
-* Place them on display.
-* Store them in a safe container.
-* Ship them in a padded envelope or box.
+* Make sure there is plenty of ink in the printer.
+* Adjust the printer settings for the paper that will actually be used for the notebook covers.
+* Print the front covers on special paper.
