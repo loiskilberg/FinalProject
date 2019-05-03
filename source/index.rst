@@ -1,5 +1,5 @@
-Creating a Photoshop File for Spiral Notebook Front Covers
-##########################################################
+Creating a Photoshop File for Notebook Front Covers
+###################################################
 
 .. image:: images/photo_notebooks.jpg
          :width: 50%
