@@ -3,10 +3,6 @@ Setting Up Photoshop
 
 In this step, you will create a new Photoshop file and set up gridlines.
 
-.. raw:: HTML
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/FKLH44w-lbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Requirements
 ============
 You will need:
