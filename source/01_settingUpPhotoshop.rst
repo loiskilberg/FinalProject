@@ -11,8 +11,8 @@ For the steps shown below, you will need:
 
 .. index:: gridlines
 
-Steps:
-======
+Steps
+=====
 
 #. File> New.
 #. Gridlines.
