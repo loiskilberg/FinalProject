@@ -1,7 +1,7 @@
 Setting Up Photoshop
 ####################
 
-In this step, you will create a new Photoshop file and set up gridlines.
+In this section, you will create a new Photoshop file and set up gridlines.
 
 Requirements
 ============
