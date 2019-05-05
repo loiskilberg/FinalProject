@@ -1,6 +1,8 @@
 Test Printing
 #############
 
+.. index:: test printing
+
 In this step, you will produce a test print to check for alignment. If anything needs adjusting, go back and correct it, then do another test print.
 
 Requirements
