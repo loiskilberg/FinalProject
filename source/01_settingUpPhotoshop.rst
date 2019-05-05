@@ -22,11 +22,11 @@ Steps
 
 .. note:: We use 400 pixels/inch instead of our usual 300 because otherwise we could not place our small individual files exactly on the pixels we want.
 
-#. To add 1/4" gridlines, from the *Edit* menu, select *Preferences*, then select *Guides, Grid, & Slices..*. Set the gridline to be every **1 inches**, and Subdivisions to **4**. Click **OK**.
+#. To add 1/4" gridlines, from the *Edit* menu, select *Preferences*, then select *Guides, Grid, & Slices..*. Set the gridline to be every **1 inch**, and *Subdivisions* to **4**. Click **OK**.
 
-#. To make sure the gridlines are visible, from the *View* menu, select *Show*. Make sure **Grid** is checked.
+#. To make sure the gridlines are visible, from the *View* menu, select *Show*. Make sure that **Grid** is checked.
 
-#. Enable snapping to the grid. From the *View* menu, select *Snap to* and make sure **Grid** is checked. Snapping to the grid will make it easy to place individual cover files.
+#. To enable snapping to the grid, from the *View* menu, select *Snap to* and make sure that **Grid** is checked. Snapping to the grid will make it easy to place individual cover files.
 
 Next
 ====
