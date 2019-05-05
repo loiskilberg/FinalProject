@@ -21,12 +21,12 @@ For the steps shown below, you will need:
 Steps
 =====
 
-A. Create a printout
-++++++++++++++++++++
+A. Create a Test Printout
++++++++++++++++++++++++++
 
 #. Gather at least one piece of regular paper.
 
-#. File> Print> Understand all the printer settings. File> Print> settings: Portrait
+#. From the *File* menu, select *Print*. Understand all the printer settings. File> Print> settings: Portrait
 check borderless, click borderless Settings, check Retain Size
 paper type: doesn't matter much, perhaps semi-gloss
 cassette 1 or rear feeder
@@ -46,8 +46,8 @@ Print.
 
 .. index:: light source, trim marks
 
-B. Examine the printout
-+++++++++++++++++++++++
+B. Examine the Test Printout
+++++++++++++++++++++++++++++
 
 #. Set up the lighting in the room. Hold up the printout to the light.
 
