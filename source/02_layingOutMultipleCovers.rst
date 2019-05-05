@@ -37,7 +37,7 @@ A. Adding Images for the Outside
 
 #. Place fifth image, rasterize it, rotate it, and position it 3/4" in from the right and flush with the top of the page. It should be just to the right of the first image.
 
-#. Place the sixth image, rasterized and rotated, just below the fifth image.
+#. Place the sixth image, rasterize it, rotate it, and position it just below the fifth image.
 
 #. Place the seventh and eighth images, rasterize them, rotate them, and position them. The eight image shoulid be flush with the bottom of the page.
 
