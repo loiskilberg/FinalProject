@@ -46,7 +46,7 @@ A. Create a Test Printout
 
 #. Make sure you have paper loaded in the printer, then click **Print**. Click **Print** on the next dialog that appears and wait for the page to print. If necessary, confirm on the printer itself what paper to use.
 
-#. Turn the paper over and feed it top edge first into the printer. We like to use either cassette 1 or the rear feeder for this printer. Pay attention to which side should be facing up in order to print on the blank side.
+#. Turn the paper over and feed it top edge first into the printer. We like to use either **Paper Cassette 1** or **Rear Paper Feed Slot** for this printer. Pay attention to which side should be facing up in order to print on the blank side.
 
 #. Hide the **info** layer group. 
 
