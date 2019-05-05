@@ -8,8 +8,8 @@ Requirements
 For the steps shown below, you will need:
 
 * Computer running Photoshop (we are using Adobe Creative Suite CS4 for Windows 10)
-* Individual files for the images
-* Individual files for the inside information
+* Eight individual files for the images in the correct format
+* Eight individual files for the inside information in the correct format
 
 .. index:: rasterize, rotate, place file, File Place command, group layers
 
