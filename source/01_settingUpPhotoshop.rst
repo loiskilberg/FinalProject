@@ -5,7 +5,7 @@ In this step, you will create a new Photoshop file and set up gridlines.
 
 Requirements
 ============
-You will need:
+For the steps shown below, you will need:
 
 * Computer running Photoshop (we are using Adobe Creative Suite CS4 for Windows 10)
 
