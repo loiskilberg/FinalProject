@@ -10,7 +10,7 @@ Requirements
 
 * Computer running Photoshop (we are using Adobe Creative Suite CS4 for Windows 10)
 * New Photoshop file that you just created
-* Printer that you will use to create the front covers
+* Printer that you will use to create the front covers (we use an Epson Workforce WF-7210)
 * Regular paper, at least one sheet but maybe more if adjustments are needed
 * Strong light source in a darkened room, for checking the test printout
 
@@ -25,16 +25,16 @@ A. Create a printout
 #. Gather at least one piece of regular paper.
 
 #. File> Print> Understand all the printer settings. File> Print> settings: Portrait
-check borderless, click borderless SettingsL check Retain Size
+check borderless, click borderless Settings, check Retain Size
 paper type: doesn't matter much, perhaps semi-gloss
-rear feed
+cassette 1 or rear feeder
 quality: standard
 use Adobe RGB custom color settings
-Uncheck: Scale
 Check: Center Image
+Uncheck: Scale to fit media
 Print.
 
-#. Turn paper over and insert top edge first into printer. We like to use the rear feeder for this printer.
+#. Turn paper over and insert top edge first into printer. We like to use either cassette 1 or the rear feeder for this printer. Pay attention to which side should be facing up in order to print on the blank side.
 
 #. Hide "info" layer group. Show "images" layer group.
 
@@ -47,11 +47,11 @@ Print.
 B. Examine the printout
 +++++++++++++++++++++++
 
-#. Set up the lighting in the room.
+#. Set up the lighting in the room. Hold up the printout to the light.
 
-#. Check trim marks.
+#. Check trim marks to make they align between the front and back sides..
 
-#. Check that info matches the images and make sure the top is the same for images versus info.
+#. Check that info matches the correct images and make sure that the top is the same for images versus info.
 
 Next
 ====
