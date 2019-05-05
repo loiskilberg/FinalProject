@@ -61,11 +61,15 @@ A. Create a Test Printout
 B. Examine the Test Printout
 ++++++++++++++++++++++++++++
 
-#. Set up the lighting in the room. Hold up the printout to the light.
+#. Darken the room if possible, except for an easy-to-reach light source.
 
-#. Check trim marks to make they align between the front and back sides..
+#. Hold the test printout up to the light.
 
-#. Check that info matches the correct images and make sure that the top is the same for images versus info.
+#. Check the trim marks to make sure they align between the front and back sides.
+
+#. Check that information on one side matches the correct images on the other side.
+
+#. Make sure that the tops are facing the same way for both sides.
 
 Next
 ====
