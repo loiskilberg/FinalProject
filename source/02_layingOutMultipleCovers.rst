@@ -39,7 +39,7 @@ A. Adding Images for the Outside
 
 #. Place the sixth image, rasterize it, rotate it, and position it just below the fifth image.
 
-#. Place the seventh and eighth images, rasterize them, rotate them, and position them. The eight image should be flush with the bottom of the page.
+#. Place the seventh and eighth images, rasterize them, rotate them, and position them. The eighth image should be flush with the bottom of the page.
 
 #. Group all eight image layers by selecting *Group Layers* from the *Layer* menu. Double-click the name of the group in the *Layers Panel* and rename the group **images**. 
 
@@ -48,15 +48,29 @@ A. Adding Images for the Outside
 B. Adding Information on the Inside
 +++++++++++++++++++++++++++++++++++
 
-#. Pick correct information file. Insert the information files in the same order as you inserted the image files. However, you will be positioning them from right to left instead of left to right. File> Place.
+#. Add the individual file that contains information to be printed on the inside of the cover that matches the first image. From the *File* menu, select *Place* and browse to select that information file. Click **Place**, then press **Enter** to complete the file placement.
 
-#. Rasterize. Rotate in other direction. Edit> Transform> Rotate 90° CW. Position it.  Rotate in the opposite direction of the related image, on the same horizontal row, but on the opposite left vs right side as the image. The top should be on the right. Use same margins and being flush as for the images.
+#. Rasterize it as you did for the image files.
 
-#. Place remaining seven images, rasterize, rotate, position.
+#. You will now be working in opposite directions from how you positioned the image files. From the *Edit* menu, select *Transform*, then select *Rotate 90° CW*. The top of the information file should now be facing to the right (not to the left).
 
-#. Group eight layers. Name group "info".
+#. Position the information file so that it is 3/4" in from the right (not from the left) and flush with the top of the page.
 
-#. File> Save the file with a meaningful filename.
+#. Place the second information file. When browsing, be sure to select the matching information files in the same order as you selected the image files.
+
+#. Rasterize the second information file, rotate it so the top is at the right, and position it just below the first information file.
+
+#. Place the third and fourth information files, rasterize them, rotate them, and position them. The fourth file should be flush with the bottom of the page.
+
+#. Place the fifth information file, rasterize it, rotate it, and position is 3/4" in from the left and flush with the top of the page. It should be just to the left of the first information file.
+
+#. Place the sixth information file, rasterize it, rotate it, and position it just below the fifth information file.
+
+#. Place the seventh and eighth information files, rasterize them, rotate them, and position them. The eighth information file should be flush with the bottom of the page.
+
+#. Group all eight information layers. Name this group **info**.
+
+#. Save the file with a meaningful filename.
 
 Next
 ====
