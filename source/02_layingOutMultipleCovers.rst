@@ -62,7 +62,7 @@ B. Adding Information on the Inside
 
 #. Place the third and fourth information files, rasterize them, rotate them, and position them. The fourth file should be flush with the bottom of the page.
 
-#. Place the fifth information file, rasterize it, rotate it, and position is 3/4" in from the left and flush with the top of the page. It should be just to the left of the first information file.
+#. Place the fifth information file, rasterize it, rotate it, and position it 3/4" in from the left and flush with the top of the page. It should be just to the left of the first information file.
 
 #. Place the sixth information file, rasterize it, rotate it, and position it just below the fifth information file.
 
