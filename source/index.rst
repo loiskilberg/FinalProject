@@ -38,7 +38,7 @@ Please note that the steps to create the front cover layout are the same whether
 Requirements
 ============
 
-.. index:: Photoshop, light source
+.. index:: Photoshop, light source 
 
 * Computer running Photoshop (we are using Adobe Creative Suite CS4 for Windows 10)
 * Individual files for the images, already laid out
