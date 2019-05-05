@@ -11,7 +11,7 @@ You will need:
 * Individual files for the images, already laid out
 * Individual files for the information inside, already laid out
 
-.. index:: rasterize, rotate, place file, File> Place, group layers
+.. index:: rasterize, rotate, place file, File Place command, group layers
 
 Steps:
 ======
