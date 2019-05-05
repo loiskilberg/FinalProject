@@ -20,13 +20,13 @@ Steps
 
 .. note:: We use a page size smaller than 8.5" x 11" to avoid our printer shifting the margins slightly, which would result in misalignment between printing on the front and back sides of the same sheet of paper.
 
-.. note:: We use 400 pixels/inch instead of our usual 300 because otherwise we could not place our small individual files exactly on the pixels we want.)
+.. note:: We use 400 pixels/inch instead of our usual 300 because otherwise we could not place our small individual files exactly on the pixels we want.
 
-#. Gridlines: Edit> Preferences> Guides, Grid, & Slices..> Gridline every 1", Subdivisions 4, click OK.
+#. To add 1/4" gridlines, from the *Edit* menu, select *Preferences*, then select *Guides, Grid, & Slices..*. Set the gridline to be every **1 inches**, and Subdivisions to **4**. Click **OK**.
 
-#. View grid: View> Show Grid> make sure it is checked
+#. To make sure the gridlines are visible, from the *View* menu, select *Show*. Make sure **Grid** is checked.
 
-#. Snap: > View> Snap to> make sure Grid is checked (this will make it easy to place individual files)
+#. Enable snapping to the grid. From the *View* menu, select *Snap to* and make sure **Grid** is checked. Snapping to the grid will make it easy to place individual cover files.
 
 Next
 ====
