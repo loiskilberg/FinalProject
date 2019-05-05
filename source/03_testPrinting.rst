@@ -8,6 +8,8 @@ In this section, you will produce a test print to check for alignment. If anythi
 Requirements
 ============
 
+For the steps shown below, you will need:
+
 * Computer running Photoshop (we are using Adobe Creative Suite CS4 for Windows 10)
 * New Photoshop file that you just created
 * Printer that you will use to create the front covers (we use an Epson Workforce WF-7210)
