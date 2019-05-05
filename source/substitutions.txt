@@ -30,6 +30,10 @@
 
 .. |warningSharpRegularPaperCutter| replace:: Keep the regular paper cutter away from small children. Be careful when handling so that you don't accidentally cut yourself, since the blade is sharp.
 
+.. |websiteLLC| raw:: html
+
+  <a href="http://www.loislegacyart.com/" target="_blank">www.LoisLegacyArt.com</a>
+
 .. |emailInfoLLC| raw:: html
 
   <a href="mailto:info@loislegacyart.com" target="_blank">info@loislegacyart.com</a>
