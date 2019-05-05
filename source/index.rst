@@ -40,10 +40,10 @@ Requirements
 
 .. index:: Photoshop, light source 
 
-* Computer running Photoshop (we are using Adobe Creative Suite CS4 for Windows 10)
+* Computer running Photoshop (we use Adobe Creative Suite CS4 for Windows 10)
 * Individual files for the images, already laid out
 * Individual files for the information inside, already laid out
-* Printer that you will use to create the front covers
+* Printer that you will use to create the front covers (we use an Epson Workforce WF-7210)
 * Regular paper for a test print, at least one sheet but maybe more if adjustments are needed
 * Strong light source in a darkened room, for checking the test printout
 
