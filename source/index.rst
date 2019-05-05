@@ -45,7 +45,7 @@ Requirements
 * Eight individual files for the inside information in the correct format
 * Printer that you will use to create the front covers (we use an Epson Workforce WF-7210)
 * Regular paper for a test print, at least one sheet but maybe more if adjustments are needed
-* Strong light source in a darkened room, for checking the test printout
+* Strong light source easily reachable in a darkened room, for checking the test printout
 
 Sections in This Document
 =========================
