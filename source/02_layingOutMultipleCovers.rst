@@ -27,7 +27,7 @@ A. Adding Images for the Outside
 
 #. Position the image. Select the *Move Tool*. Move the image so that it is 3/4" in from the left and flush with the top of the page.
 
-#. Hide the background layer in the *Layers Panel* so that you can see any white edges of the images better.
+#. Hide the *Background* layer in the *Layers Panel* so that you can see any white edges of the images better.
 
 #. Use similar procedures to place the second image, rasterize it, and rotate it.
 
