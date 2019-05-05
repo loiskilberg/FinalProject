@@ -23,7 +23,7 @@ A. Adding Images for the Outside
 
 #. Rasterize: Right-click the placed image in the Layers panel, Rasterize Layer
 
-#. Rotate image: Edit> ___
+#. Rotate image: Edit> Transform> Rotate 90° CCW. The top should be on the left.
 
 #. Position image: Select the Move tool. Move the image to the desired spot. Images should be 3/4" away from the left and right edges, flush with top and bottom edges, and flush against each other. Hide the background layer so that you can see any white image edges better.
 
@@ -42,9 +42,9 @@ A. Adding Images for the Outside
 B. Adding Information on the Inside
 +++++++++++++++++++++++++++++++++++
 
-#. Pick correct information file. Understand two-sided layout. File> Place.
+#. Pick correct information file. Insert the information files in the same order as you inserted the image files. However, you will be positioning them from right to left instead of left to right. File> Place.
 
-#. Rasterize. Rotate in other direction. Position it.  Rotate in the opposite direction of the related image, on the same horizontal row, but on the opposite left vs right side as the image. Use same margins and being flush as for the images.
+#. Rasterize. Rotate in other direction. Edit> Transform> Rotate 90° CW. Position it.  Rotate in the opposite direction of the related image, on the same horizontal row, but on the opposite left vs right side as the image. The top should be on the right. Use same margins and being flush as for the images.
 
 #. Place remaining seven images, rasterize, rotate, position.
 
