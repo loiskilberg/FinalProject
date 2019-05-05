@@ -26,15 +26,25 @@ A. Create a Test Printout
 
 #. Gather at least one piece of regular paper.
 
-#. From the *File* menu, select *Print*. Understand all the printer settings. File> Print> settings: Portrait
-check borderless, click borderless Settings, check Retain Size
-paper type: doesn't matter much, perhaps semi-gloss
-cassette 1 or rear feeder
-quality: standard
-use Adobe RGB custom color settings
-Check: Center Image
-Uncheck: Scale to fit media
-Print.
+#. From the *File* menu, select *Print...*. Make sure your printer is selected for the *Printer*. Click the **Page Setup...** button.
+
+#. **Check** the *Borderless* checkbox, then click the **Settings...** button next to it. Click **Retain Size** then click **OK**.
+
+#. For the *Paper Source*, select where you will be feeding the paper from. We typically use either **Paper Cassette 1** or **Rear Paper Feed Slot**.
+
+#. Select a *Paper Type*. For the test printout, it doesn't matter much. We usually select **Premium Photo Paper Semi-Gloss" or anything that looks like it will save ink.
+
+#. Set the *Quality* to **Standard** for the test printout to save ink.
+
+#. At the top of the dialog, select the *More Options* tab. Under *Color Correction*, select **Custom**, then click the **Advanced...** button next to it. Click **Color Controls**, then for *Color Mode*, select **Adobe RGB** and click **OK**.
+
+#. Click **OK** once more to return to the main *Print Dialog*.
+
+#. Make sure *Center Image* is **checked**.
+
+#. Make sure *Scale to Fit Media* is **unchecked**.
+
+#. Make sure you have paper loaded in the printer, then click **Print**. Click **Print** on the next dialog that appears and wait for the page to print. If necessary, confirm on the printer itself what paper to use.
 
 #. Turn paper over and insert top edge first into printer. We like to use either cassette 1 or the rear feeder for this printer. Pay attention to which side should be facing up in order to print on the blank side.
 
