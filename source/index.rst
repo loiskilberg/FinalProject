@@ -47,8 +47,10 @@ Requirements
 * Regular paper for a test print, at least one sheet but maybe more if adjustments are needed
 * Strong light source in a darkened room, for checking the test printout
 
-Steps:
-======
+Sections
+========
+The steps to create the front cover layouts are covered in the following sections.
+
 .. toctree::
    :maxdepth: 1
 
