@@ -18,9 +18,9 @@ Steps
 
 #. From the *File* menu, select *New*. Set the *Width* to **3200px** (8") and the *Height* to **4200px** (10.5"). Set the *Resolution* to **400 pixels/inch** and the *Color Mode* to **RGB Color**.
 
-.. note:: The reason for using a sheet size smaller than 8.5" x 11" is to avoid a situation where our printer shifts the backside of a two-sided piece of paper slightly.
+.. note:: We use a page size smaller than 8.5" x 11" to avoid our printer shifting the margins slightly, which would result in misalignment between printing on the front and back sides of the same sheet of paper.
 
-(Because at 300dpi Photoshop will round the pixels to a size we don't want.)
+.. note:: We use 400 pixels/inch instead of our usual 300 because otherwise we could not place our small individual files exactly on the pixels we want.)
 
 #. Gridlines: Edit> Preferences> Guides, Grid, & Slices..> Gridline every 1", Subdivisions 4, click OK.
 
