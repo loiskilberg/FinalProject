@@ -1,15 +1,15 @@
 Laying Out Multiple Covers on a Single Sheet
 ############################################
 
-In this section, you will add images that will appear on the outside front covers, then you will add the information files that go on the inside of the front covers.
+In this section, you will add images to appear on the outside front covers, then you will add the information files that will be printed on the inside of the front covers.
 
 Requirements
 ============
 For the steps shown below, you will need:
 
 * Computer running Photoshop (we are using Adobe Creative Suite CS4 for Windows 10)
-* Individual files for the images, already laid out
-* Individual files for the information inside, already laid out
+* Individual files for the images
+* Individual files for the inside information
 
 .. index:: rasterize, rotate, place file, File Place command, group layers
 
@@ -19,7 +19,7 @@ Steps
 A. Adding Images for the Outside
 ++++++++++++++++++++++++++++++++
 
-#. Place first image: File> Place> select the individual outside image file> Place, press Return to complete the file placement.
+#. Add the first image. From the *File* menu, select *Place* and browse to select the first individual image file. Click **Place**, then press **Return** to complete the file placement.
 
 #. Rasterize: Right-click the placed image in the Layers panel, Rasterize Layer
 
