@@ -13,7 +13,7 @@ About our Small Spiral Notebooks
 
 .. index:: main documentation
 
-At |llc|, we create a large variety of small notebooks. We place our fine art reproductions, illustrations, and map prints on the front covers.  This document describes in detail how to layout a Photoshop file to print multiple front covers for a certain size of notebooks. It is one step in the process of creating notebooks. You can learn more about creating spiral notebooks at: |mainDocNotebooks|. To request information about the availability of these notebooks, email |emailInfoLLC| or visit |websiteLLC|.
+At |llc|, we create a large variety of small notebooks. We place our fine art reproductions, illustrations, and map prints on the front covers.  This document describes in detail how to layout a Photoshop file to print multiple front covers for a certain size of notebooks. It is one step in the process of creating notebooks. You can learn more about creating spiral notebooks at: |mainDocNotebooks|. To request information about the availability of these notebooks and other art, email |emailInfoLLC| or visit |websiteLLC|.
 
 The steps in this document are also covered in this video:
 
