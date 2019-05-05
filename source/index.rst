@@ -44,7 +44,7 @@ Requirements
 * Individual files for the images, already laid out
 * Individual files for the information inside, already laid out
 * Printer that you will use to create the front covers
-* Regular paper, at least one sheet but maybe more if adjustments are needed
+* Regular paper for a test print, at least one sheet but maybe more if adjustments are needed
 * Strong light source in a darkened room, for checking the test printout
 
 Steps:
