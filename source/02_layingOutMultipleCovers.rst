@@ -25,19 +25,25 @@ A. Adding Images for the Outside
 
 #. Rotate the image. From the *Edit* menu, select *Transform*, then select *Rotate 90° CCW*. The top of the image should now be facing to the left.
 
-#. Position image: Select the Move tool. Move the image to the desired spot. Images should be 3/4" away from the left and right edges, flush with top and bottom edges, and flush against each other. Hide the background layer so that you can see any white image edges better.
+#. Position the image. Select the *Move Tool*. Move the image so that it is 3/4" in from the left and flush with the top of the page.
 
-#. Place second image, rasterize, rotate.
+#. Hide the background layer in the *Layers Panel* so that you can see any white edges of the images better.
 
-#. Position second image.
+#. Use similar procedures to place the second image, rasterize it, and rotate it.
 
-#. Place third and fourth images, rasterize, rotate, position. Check that fourth image is flush with the bottom of the page.
+#. Position the second image just below the first image.
 
-#. Place fifth image, rasterize, rotate, position.
+#. Similarly, place the third and fourth images, rasterize them, rotate them, and position them. Make sure that the fourth image is flush with the bottom of the page.
 
-#. Place sixth, seventh, and eighth images, rasterize, rotate, position.
+#. Place fifth image, rasterize it, rotate it, and position it 3/4" in from the right and flush with the top of the page. It should be just to the right of the first image.
 
-#. Group eight layers. Name group "images". Hide group.
+#. Place the sixth image, rasterized and rotated, just below the fifth image.
+
+#. Place the seventh and eighth images, rasterize them, rotate them, and position them. The eight image shoulid be flush with the bottom of the page.
+
+#. Group all eight image layers. Name the group **images**. 
+
+#. Hide the **images** group.
 
 B. Adding Information on the Inside
 +++++++++++++++++++++++++++++++++++
