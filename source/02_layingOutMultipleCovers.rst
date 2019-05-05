@@ -39,7 +39,7 @@ A. Adding Images for the Outside
 
 #. Place the sixth image, rasterize it, rotate it, and position it just below the fifth image.
 
-#. Place the seventh and eighth images, rasterize them, rotate them, and position them. The eight image shoulid be flush with the bottom of the page.
+#. Place the seventh and eighth images, rasterize them, rotate them, and position them. The eight image should be flush with the bottom of the page.
 
 #. Group all eight image layers. Name the group **images**. 
 
