@@ -21,9 +21,9 @@ A. Adding Images for the Outside
 
 #. Add the first image. From the *File* menu, select *Place* and browse to select the first individual image file. Click **Place**, then press **Enter** to complete the file placement.
 
-#. In the *Layers panel*, right-click the placed image and select *Rasterize Layer*. Rasterizing the image removes the link to the original file. Then, if you ever this new Photoshop to a different folder location, you will not need re-link the image file.
+#. In the *Layers Panel*, right-click the placed image and select *Rasterize Layer*. Rasterizing the image removes the link to the original file. Then, if you ever move this new Photoshop file to a different folder location, you will not need re-link the image file.
 
-#. Rotate image: Edit> Transform> Rotate 90° CCW. The top should be on the left.
+#. Rotate the image. From the *Edit* menu, select *Transform*, then select *Rotate 90° CCW*. The top of the image should now be facing to the left.
 
 #. Position image: Select the Move tool. Move the image to the desired spot. Images should be 3/4" away from the left and right edges, flush with top and bottom edges, and flush against each other. Hide the background layer so that you can see any white image edges better.
 
