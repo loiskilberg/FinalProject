@@ -40,9 +40,9 @@ A. Create a Test Printout
 
 #. Click **OK** once more to return to the main *Print Dialog*.
 
-#. Make sure *Center Image* is **checked**.
+#. Make sure that *Center Image* is **checked**.
 
-#. Make sure *Scale to Fit Media* is **unchecked**.
+#. Make sure that *Scale to Fit Media* is **unchecked**.
 
 #. Make sure you have paper loaded in the printer, then click **Print**. Click **Print** on the next dialog that appears and wait for the page to print. If necessary, confirm on the printer itself what paper to use.
 
