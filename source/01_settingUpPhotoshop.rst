@@ -3,7 +3,7 @@ Setting Up Photoshop
 
 .. index:: Photoshop
 
-In this section, you will create a new Photoshop file and set up gridlines.
+In this section, you will create a new Photoshop file and set up the gridlines.
 
 Requirements
 ============
@@ -16,7 +16,7 @@ For the steps shown below, you will need:
 Steps
 =====
 
-#. File> New> width: 3200px (8"); height 4200px (10.5"); 400dpi, RGB mode. (Because at 300dpi Photoshop will round the pixels to a size we don't want.) (Reason for size not being 8.5x11 is the way I align it  exactly when printing two-sided, otherwise my printer shifts the other side slightly)
+#. From the *File* menu, select *New*. Set the *Width* to **3200px** (8") and the *Height* to **4200px** (10.5"). Set the *Resolution* to **400 pixels/inch** and the *Color Mode* to **RGB Color**. (Because at 300dpi Photoshop will round the pixels to a size we don't want.) (Reason for size not being 8.5x11 is the way I align it  exactly when printing two-sided, otherwise my printer shifts the other side slightly)
 #. Gridlines: Edit> Preferences> Guides, Grid, & Slices..> Gridline every 1", Subdivisions 4, click OK.
 #. View grid: View> Show Grid> make sure it is checked
 #. Snap: > View> Snap to> make sure Grid is checked (this will make it easy to place individual files)
