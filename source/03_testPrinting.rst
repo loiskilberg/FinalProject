@@ -24,13 +24,23 @@ A. Create a printout
 
 #. Gather at least one piece of regular paper.
 
-#. File> Print> Understand all the printer settings. Print.
+#. File> Print> Understand all the printer settings. File> Print> settings: Portrait
+check borderless, click borderless SettingsL check Retain Size
+paper type: doesn't matter much, perhaps semi-gloss
+rear feed
+quality: standard
+use Adobe RGB custom color settings
+Uncheck: Scale
+Check: Center Image
+Print.
 
-#. Turn paper over and insert top edge first into printer.
+#. Turn paper over and insert top edge first into printer. We like to use the rear feeder for this printer.
 
 #. Hide "info" layer group. Show "images" layer group.
 
-#. Print second side (printer settings should be remembered).
+#. Print second side using same settings.  (printer settings should be remembered).
+
+#. Save the file again to keep the printer settings.
 
 .. index:: light source, trim marks
 
@@ -41,7 +51,7 @@ B. Examine the printout
 
 #. Check trim marks.
 
-#. Check that info matches the images.
+#. Check that info matches the images and make sure the top is the same for images versus info.
 
 Next
 ====
