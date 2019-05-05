@@ -1,6 +1,8 @@
 Setting Up Photoshop
 ####################
 
+.. index:: Photoshop
+
 In this section, you will create a new Photoshop file and set up gridlines.
 
 Requirements
