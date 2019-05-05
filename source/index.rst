@@ -15,7 +15,7 @@ The steps in this document are also covered in this video:
 |video|
 
 Example Front cover layout
-++++++++++++++++++++++++++
+==========================
 
 When you finish the steps in this document, you will have a test printout that looks similar to these pictures. You will print on both sides of a single sheet of paper. The pictures show each side of the same piece of paper.
 
