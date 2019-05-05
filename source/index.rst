@@ -31,7 +31,7 @@ When you finish the steps in this document, you will have a test printout that l
 Spiral Notebook Specifications
 ==============================
 
-This document describes the multiple cover layout for #2 |szNm2| notebooks that have a trim size of |szTrimShort2| x |szTrimLong2|. We assume a bleed of 1/4" all around. The orientation is for *vertical* images, and the wire spiral placement is at the *top*.
+This document describes the multiple cover layout for #2 |szNm2| notebooks that have a trim size of |szTrimShort2| x |szTrimLong2|. We assume a bleed of 1/4" all around. The orientation is for *vertical* images, and the wire spiral placement is at the *top*. You will be able to fit eight covers on a single sheet of paper.
 
 Please note that the steps to create the front cover layout are the same whether the notebook thickness is |Thin| or |Chunky|.
 
