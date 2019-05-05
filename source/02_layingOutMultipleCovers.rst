@@ -5,7 +5,7 @@ In this section, you will add images that will appear on the outside front cover
 
 Requirements
 ============
-You will need:
+For the steps shown below, you will need:
 
 * Computer running Photoshop (we are using Adobe Creative Suite CS4 for Windows 10)
 * Individual files for the images, already laid out
