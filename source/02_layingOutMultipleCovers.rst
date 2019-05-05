@@ -19,13 +19,13 @@ Steps
 A. Adding Images for the Outside
 ++++++++++++++++++++++++++++++++
 
-#. Place first image
+#. Place first image: File> Place> select the individual outside image file> Place, press Return to complete the file placement.
 
-#. Rasterize.
+#. Rasterize: Right-click the placed image in the Layers panel, Rasterize Layer
 
-#. Rotate image.
+#. Rotate image: Edit> ___
 
-#. Position image.
+#. Position image: Select the Move tool. Move the image to the desired spot. Images should be 3/4" away from the left and right edges, flush with top and bottom edges, and flush against each other. Hide the background layer so that you can see any white image edges better.
 
 #. Place second image, rasterize, rotate.
 
@@ -44,11 +44,13 @@ B. Adding Information on the Inside
 
 #. Pick correct information file. Understand two-sided layout. File> Place.
 
-#. Rasterize. Rotate in other direction. Position it.
+#. Rasterize. Rotate in other direction. Position it.  Rotate in the opposite direction of the related image, on the same horizontal row, but on the opposite left vs right side as the image. Use same margins and being flush as for the images.
 
 #. Place remaining seven images, rasterize, rotate, position.
 
 #. Group eight layers. Name group "info".
+
+#. File> Save the file with a meaningful filename.
 
 Next
 ====
