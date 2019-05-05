@@ -46,11 +46,13 @@ A. Create a Test Printout
 
 #. Make sure you have paper loaded in the printer, then click **Print**. Click **Print** on the next dialog that appears and wait for the page to print. If necessary, confirm on the printer itself what paper to use.
 
-#. Turn paper over and insert top edge first into printer. We like to use either cassette 1 or the rear feeder for this printer. Pay attention to which side should be facing up in order to print on the blank side.
+#. Turn the paper over and feed it top edge first into the printer. We like to use either cassette 1 or the rear feeder for this printer. Pay attention to which side should be facing up in order to print on the blank side.
 
-#. Hide "info" layer group. Show "images" layer group.
+#. Hide the **info** layer group. 
 
-#. Print second side using same settings.  (printer settings should be remembered).
+#. Show the **images** layer group.
+
+#. Print on the second side using the same printer settings, which should be automatically remembered.
 
 #. Save the file again to keep the printer settings.
 
