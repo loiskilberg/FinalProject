@@ -41,7 +41,7 @@ A. Adding Images for the Outside
 
 #. Place the seventh and eighth images, rasterize them, rotate them, and position them. The eight image should be flush with the bottom of the page.
 
-#. Group all eight image layers. Name the group **images**. 
+#. Group all eight image layers by selecting *Group Layers* from the *Layer* menu. Double-click the name of the group in the *Layers Panel* and rename the group **images**. 
 
 #. Hide the **images** group.
 
