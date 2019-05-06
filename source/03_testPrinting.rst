@@ -61,7 +61,7 @@ A. Create a Test Printout
 B. Examine the Test Printout
 ++++++++++++++++++++++++++++
 
-#. Darken the room if possible, except for an easy-to-reach light source.
+#. Darken the room as much as possible, except turn on an easy-to-reach light source.
 
 #. Hold the test printout up to the light.
 
