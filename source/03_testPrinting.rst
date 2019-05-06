@@ -67,7 +67,7 @@ B. Examine the Test Printout
 
 #. Check the trim marks to make sure they align between the front and back sides.
 
-#. Check that information on one side matches the correct images on the other side.
+#. Check that the information on one side matches the correct images on the other side.
 
 #. Make sure that the tops are facing the same way for both sides.
 
