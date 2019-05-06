@@ -32,7 +32,7 @@ A. Create a Test Printout
 
 #. For the *Paper Source*, select where you will be feeding the paper from. We typically use either **Paper Cassette 1** or **Rear Paper Feed Slot**.
 
-#. Select a *Paper Type*. For the test printout, it doesn't matter much. We usually select **Premium Photo Paper Semi-Gloss" or anything that looks like it will save ink.
+#. Select a *Paper Type*. For the test printout, it doesn't matter. We usually select **Premium Photo Paper Semi-Gloss** or anything that looks like it will save ink.
 
 #. Set the *Quality* to **Standard** for the test printout to save ink.
 
