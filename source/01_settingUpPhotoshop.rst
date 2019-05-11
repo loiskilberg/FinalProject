@@ -16,11 +16,13 @@ For the steps shown below, you will need:
 Steps
 =====
 
-* From the *File* menu, select *New...*. Set the *Width* to **3200px** (8") and the *Height* to **4200px** (10.5"). Set the *Resolution* to **400 pixels/inch** and the *Color Mode* to **RGB Color**. Click **OK**.
+* First, create the file. From the *File* menu, select *New...*. Set the *Width* to **3200px** (8") and the *Height* to **4200px** (10.5"). Set the *Resolution* to **400 pixels/inch** and the *Color Mode* to **RGB Color**. Click **OK**.
 
 .. note:: We use a page size smaller than 8.5" x 11" to avoid our printer shifting the margins slightly, which would result in misalignment between printing on the front and back sides of the same sheet of paper.
 
 .. note:: We use 400 pixels/inch instead of our usual 300 because otherwise we could not place our small individual files exactly on the pixels we want.
+
+Now add the gridlines:
 
 #. To add 1/4" gridlines, from the *Edit* menu, select *Preferences*, then select *Guides, Grid, & Slices..*. Set the gridline to be every **1 inch**, and *Subdivisions* to **4**. Click **OK**.
 
