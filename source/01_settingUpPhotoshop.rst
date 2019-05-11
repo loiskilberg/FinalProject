@@ -16,7 +16,7 @@ For the steps shown below, you will need:
 Steps
 =====
 
-# From the *File* menu, select *New...*. Set the *Width* to **3200px** (8") and the *Height* to **4200px** (10.5"). Set the *Resolution* to **400 pixels/inch** and the *Color Mode* to **RGB Color**. Click **OK**.
+* From the *File* menu, select *New...*. Set the *Width* to **3200px** (8") and the *Height* to **4200px** (10.5"). Set the *Resolution* to **400 pixels/inch** and the *Color Mode* to **RGB Color**. Click **OK**.
 
 .. note:: We use a page size smaller than 8.5" x 11" to avoid our printer shifting the margins slightly, which would result in misalignment between printing on the front and back sides of the same sheet of paper.
 
